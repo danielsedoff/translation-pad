@@ -1,0 +1,3 @@
+translation-pad
+
+This is a tool intended for translators. When you are translating a document in manual mode, your translation text flows down automatically but the original column has to be shifted up or down because the source and the target languages have words of different length. Here, type your translation on the right, and press [Alt] + [Up] / [Down] to scroll your left panel conveniently. 
